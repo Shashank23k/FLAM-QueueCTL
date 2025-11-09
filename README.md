@@ -170,5 +170,8 @@ Dashboard displays:
 | **Metrics & Execution Stats** | ✅ | `status` command + dashboard expose runtime system metrics.     |
 | **Web Dashboard**         |   ✅   | Real-time monitoring UI implemented using Flask.                |
 
-###Demo Video
+### 🎬 Demo Video
+
+Watch the full demonstration here:  
+➡️ **[Click to Watch Video](https://drive.google.com/file/d/1FCiSWzshSOW-BeEUIvCv9N59El4M4bjE/view?usp=sharing)**
 
