@@ -38,7 +38,7 @@ python queuectl.py enqueue "{\"id\": \"job-sleep\", \"command\": \"powershell -C
 
 
 # Enqueue a job that will fail
-python queuectl.py enqueue "{\"id\": \"job-bad\", \"command\": \"powershell -Command exit 1\"}"
+python queuectl.py enqueue "{\"id\":\"job-bad\",\"command\":\"powershell -Command \\\"exit 2\\\"\",\"max_retries\":2}"
 # → Enqueued job-bad
 ```
 #### **Start Workers**	
