@@ -1,0 +1,5 @@
+{
+  "id": "job-bad",
+  "command": "powershell -Command \"exit 2\"",
+  "max_retries": 2
+}
