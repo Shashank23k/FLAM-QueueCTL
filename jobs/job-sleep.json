@@ -1,0 +1,4 @@
+{
+  "id": "job-sleep",
+  "command": "powershell -Command Start-Sleep -Seconds 2"
+}
